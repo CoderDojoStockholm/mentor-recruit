@@ -1,4 +1,4 @@
-package se.mrpeachum.mentor.configuration;
+package se.coderdojostockholm.mentor.configuration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
@@ -12,8 +12,8 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
  * Time: 15:53
  */
 @Configuration
-@ComponentScan("se.mrpeachum.mentor")
-@EnableMongoRepositories("se.mrpeachum.mentor.repository")
+@ComponentScan("se.coderdojostockholm.mentor")
+@EnableMongoRepositories("se.coderdojostockholm.mentor.repository")
 @EnableAutoConfiguration
 public class MentorApplication {
 

@@ -1,4 +1,4 @@
-package se.mrpeachum.mentor.model;
+package se.coderdojostockholm.mentor.model;
 
 import org.hibernate.validator.constraints.Email;
 import org.springframework.data.annotation.Id;

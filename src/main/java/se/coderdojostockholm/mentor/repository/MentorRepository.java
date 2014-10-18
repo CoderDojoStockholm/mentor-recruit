@@ -1,7 +1,7 @@
-package se.mrpeachum.mentor.repository;
+package se.coderdojostockholm.mentor.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
-import se.mrpeachum.mentor.model.Mentor;
+import se.coderdojostockholm.mentor.model.Mentor;
 
 /**
  * Created by: Erik Olsson (eolsson@gmail.com)

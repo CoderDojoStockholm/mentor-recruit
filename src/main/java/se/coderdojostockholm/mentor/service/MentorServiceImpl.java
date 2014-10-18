@@ -1,9 +1,9 @@
-package se.mrpeachum.mentor.service;
+package se.coderdojostockholm.mentor.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import se.mrpeachum.mentor.model.Mentor;
-import se.mrpeachum.mentor.repository.MentorRepository;
+import se.coderdojostockholm.mentor.model.Mentor;
+import se.coderdojostockholm.mentor.repository.MentorRepository;
 
 import java.util.List;
 import java.util.stream.Collectors;

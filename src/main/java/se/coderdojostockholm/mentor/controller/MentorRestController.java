@@ -1,10 +1,10 @@
-package se.mrpeachum.mentor.controller;
+package se.coderdojostockholm.mentor.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
-import se.mrpeachum.mentor.model.Mentor;
-import se.mrpeachum.mentor.service.MentorService;
+import se.coderdojostockholm.mentor.model.Mentor;
+import se.coderdojostockholm.mentor.service.MentorService;
 
 import javax.validation.Valid;
 import java.util.Collection;

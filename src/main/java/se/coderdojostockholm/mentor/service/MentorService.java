@@ -1,6 +1,6 @@
-package se.mrpeachum.mentor.service;
+package se.coderdojostockholm.mentor.service;
 
-import se.mrpeachum.mentor.model.Mentor;
+import se.coderdojostockholm.mentor.model.Mentor;
 
 import java.util.List;
 
